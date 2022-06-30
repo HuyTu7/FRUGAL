@@ -1,0 +1,86 @@
+Time: 2022-02-07 17:40:00.599237
+[Configuration]
+'est_config' : ====== Intrinsic Dim Estimation of real dataset ======
+'log_dir' : exp/realcase/log
+'log_filename' : est.log
+'logrs' : -4:0:20
+
+-----------------adult_sex----------------------
+In training set:
+number of target is 208
+number of non-target is 792
+ratio of target is 0.208
+ues L1 norm to compute the distance
+0.20936372378482793
+-----------------adult_race----------------------
+In training set:
+number of target is 248
+number of non-target is 752
+ratio of target is 0.248
+ues L1 norm to compute the distance
+0.2479764156349566
+-----------------compas_sex----------------------
+In training set:
+number of target is 446
+number of non-target is 554
+ratio of target is 0.446
+ues L1 norm to compute the distance
+0.0
+-----------------compas_race----------------------
+In training set:
+number of target is 448
+number of non-target is 552
+ratio of target is 0.448
+ues L1 norm to compute the distance
+0.0
+-----------------german_sex----------------------
+In training set:
+number of target is 197
+number of non-target is 503
+ratio of target is 0.2814285714285714
+ues L1 norm to compute the distance
+0.0
+-----------------defaultcredit_sex----------------------
+In training set:
+number of target is 225
+number of non-target is 775
+ratio of target is 0.225
+ues L1 norm to compute the distance
+3.4591328767632787
+-----------------hearthealth_age----------------------
+In training set:
+number of target is 90
+number of non-target is 117
+ratio of target is 0.43478260869565216
+ues L1 norm to compute the distance
+2.740563597396968
+-----------------bank_age----------------------
+In training set:
+number of target is 508
+number of non-target is 492
+ratio of target is 0.508
+ues L1 norm to compute the distance
+1.4445539847244937
+-----------------student_sex----------------------
+In training set:
+number of target is 286
+number of non-target is 444
+ratio of target is 0.3917808219178082
+ues L1 norm to compute the distance
+0.5475803538019903
+-----------------MEPS15_race----------------------
+In training set:
+number of target is 174
+number of non-target is 826
+ratio of target is 0.174
+ues L1 norm to compute the distance
+1.4449641362490317
+-----------------MEPS16_race----------------------
+In training set:
+number of target is 164
+number of non-target is 836
+ratio of target is 0.164
+ues L1 norm to compute the distance
+1.6319524540657446
+['adult_sex', 'adult_race', 'compas_sex', 'compas_race', 'german_sex', 'defaultcredit_sex', 'hearthealth_age', 'bank_age', 'student_sex', 'MEPS15_race', 'MEPS16_race']
+[0.20936372378482793, 0.2479764156349566, 0.0, 0.0, 0.0, 3.4591328767632787, 2.740563597396968, 1.4445539847244937, 0.5475803538019903, 1.4449641362490317, 1.6319524540657446]
