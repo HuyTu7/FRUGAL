@@ -1,0 +1,254 @@
+Time: 2021-12-19 21:42:14.853700
+[Configuration]
+'est_config' : ====== Intrinsic Dim Estimation of real dataset ======
+'log_dir' : exp/realcase/log
+'log_filename' : est.log
+'logrs' : -4:0:20
+
+-----------------ambari----------------------
+In training set:
+number of target is 22
+number of non-target is 478
+ratio of target is 0.044
+ues L1 norm to compute the distance
+1.201261032683027
+In training set:
+number of target is 22
+number of non-target is 127
+ratio of target is 0.1476510067114094
+ues L1 norm to compute the distance
+0.9180430561830155
+In training set:
+number of target is 22
+number of non-target is 238
+ratio of target is 0.08461538461538462
+ues L1 norm to compute the distance
+1.1454491340488209
+In training set:
+number of target is 22
+number of non-target is 440
+ratio of target is 0.047619047619047616
+ues L1 norm to compute the distance
+1.2023646705934856
+In training set:
+number of target is 22
+number of non-target is 387
+ratio of target is 0.05378973105134474
+ues L1 norm to compute the distance
+3.5167136543159305
+In training set:
+number of target is 22
+number of non-target is 54
+ratio of target is 0.2894736842105263
+ues L1 norm to compute the distance
+2.0377291262122057
+In training set:
+number of target is 22
+number of non-target is 159
+ratio of target is 0.12154696132596685
+ues L1 norm to compute the distance
+3.3310678447302227
+In training set:
+number of target is 22
+number of non-target is 354
+ratio of target is 0.05851063829787234
+ues L1 norm to compute the distance
+3.5991373229788732
+-----------------camel----------------------
+In training set:
+number of target is 14
+number of non-target is 486
+ratio of target is 0.028
+ues L1 norm to compute the distance
+1.3164879973011065
+In training set:
+number of target is 14
+number of non-target is 102
+ratio of target is 0.1206896551724138
+ues L1 norm to compute the distance
+1.0758893755832672
+In training set:
+number of target is 14
+number of non-target is 189
+ratio of target is 0.06896551724137931
+ues L1 norm to compute the distance
+1.1162586194586237
+In training set:
+number of target is 14
+number of non-target is 456
+ratio of target is 0.029787234042553193
+ues L1 norm to compute the distance
+1.3164879973011085
+In training set:
+number of target is 14
+number of non-target is 426
+ratio of target is 0.031818181818181815
+ues L1 norm to compute the distance
+0.6143995219990035
+In training set:
+number of target is 14
+number of non-target is 57
+ratio of target is 0.19718309859154928
+ues L1 norm to compute the distance
+2.609204185586763
+In training set:
+number of target is 14
+number of non-target is 137
+ratio of target is 0.09271523178807947
+ues L1 norm to compute the distance
+1.291086685648833
+In training set:
+number of target is 14
+number of non-target is 396
+ratio of target is 0.03414634146341464
+ues L1 norm to compute the distance
+0.6143995219990035
+-----------------chromium----------------------
+In training set:
+number of target is 0
+number of non-target is 1000
+ratio of target is 0.0
+ues L1 norm to compute the distance
+1.5409346603756784
+In training set:
+number of target is 77
+number of non-target is 923
+ratio of target is 0.077
+ues L1 norm to compute the distance
+1.1196554688692544
+In training set:
+number of target is 77
+number of non-target is 923
+ratio of target is 0.077
+ues L1 norm to compute the distance
+1.047705325428965
+In training set:
+number of target is 77
+number of non-target is 923
+ratio of target is 0.077
+ues L1 norm to compute the distance
+1.047705325428965
+In training set:
+number of target is 0
+number of non-target is 1000
+ratio of target is 0.0
+ues L1 norm to compute the distance
+1.5183468777804139
+In training set:
+number of target is 2
+number of non-target is 998
+ratio of target is 0.002
+ues L1 norm to compute the distance
+1.5229144180312655
+In training set:
+number of target is 0
+number of non-target is 1000
+ratio of target is 0.0
+ues L1 norm to compute the distance
+1.5183468777804139
+In training set:
+number of target is 0
+number of non-target is 1000
+ratio of target is 0.0
+ues L1 norm to compute the distance
+1.5183468777804139
+-----------------derby----------------------
+In training set:
+number of target is 46
+number of non-target is 454
+ratio of target is 0.092
+ues L1 norm to compute the distance
+1.3142899406888686
+In training set:
+number of target is 46
+number of non-target is 11
+ratio of target is 0.8070175438596491
+ues L1 norm to compute the distance
+0.6722749256642808
+In training set:
+number of target is 46
+number of non-target is 139
+ratio of target is 0.24864864864864866
+ues L1 norm to compute the distance
+1.4929455661281406
+In training set:
+number of target is 46
+number of non-target is 443
+ratio of target is 0.09406952965235174
+ues L1 norm to compute the distance
+1.3142899406888726
+In training set:
+number of target is 46
+number of non-target is 400
+ratio of target is 0.1031390134529148
+ues L1 norm to compute the distance
+3.276237440617545
+In training set:
+number of target is 46
+number of non-target is 2
+ratio of target is 0.9583333333333334
+ues L1 norm to compute the distance
+0.0
+In training set:
+number of target is 46
+number of non-target is 122
+ratio of target is 0.27380952380952384
+ues L1 norm to compute the distance
+2.8842049889794437
+In training set:
+number of target is 46
+number of non-target is 389
+ratio of target is 0.10574712643678161
+ues L1 norm to compute the distance
+3.078600112105073
+-----------------wicket----------------------
+In training set:
+number of target is 4
+number of non-target is 496
+ratio of target is 0.008
+ues L1 norm to compute the distance
+1.1857116052043883
+In training set:
+number of target is 4
+number of non-target is 132
+ratio of target is 0.029411764705882353
+ues L1 norm to compute the distance
+0.9130060233588557
+In training set:
+number of target is 4
+number of non-target is 139
+ratio of target is 0.027972027972027972
+ues L1 norm to compute the distance
+0.9532533253070097
+In training set:
+number of target is 4
+number of non-target is 298
+ratio of target is 0.013245033112582781
+ues L1 norm to compute the distance
+1.0955620849705685
+In training set:
+number of target is 4
+number of non-target is 388
+ratio of target is 0.01020408163265306
+ues L1 norm to compute the distance
+1.0640587160015318
+In training set:
+number of target is 4
+number of non-target is 42
+ratio of target is 0.08695652173913043
+ues L1 norm to compute the distance
+0.4140892944688461
+In training set:
+number of target is 4
+number of non-target is 45
+ratio of target is 0.08163265306122448
+ues L1 norm to compute the distance
+0.5018590974596158
+In training set:
+number of target is 4
+number of non-target is 192
+ratio of target is 0.02040816326530612
+ues L1 norm to compute the distance
+0.9971528832056267
+['../../data/FARSEC/wicket-train.csv', '../../data/FARSEC/chromium-farsec-train.csv', '../../data/FARSEC/ambari-clni-train.csv', '../../data/FARSEC/chromium-farsecsq-test.csv', '../../data/FARSEC/ambari-clni-test.csv', '../../data/FARSEC/ambari-clnifarsecsq-test.csv', '../../data/FARSEC/wicket-farsectwo-test.csv', '../../data/FARSEC/derby-clnifarsecsq-test.csv', '../../data/FARSEC/camel-clnifarsectwo-train.csv', '../../data/FARSEC/chromium-train.csv', '../../data/FARSEC/chromium-clnifarsec-test.csv', '../../data/FARSEC/ambari-clnifarsec-test.csv', '../../data/FARSEC/derby-clnifarsectwo-train.csv', '../../data/FARSEC/chromium-farsecsq-train.csv', '../../data/FARSEC/derby-clnifarsec-test.csv', '../../data/FARSEC/camel-farsec-test.csv', '../../data/FARSEC/camel-clnifarsec-train.csv', '../../data/FARSEC/wicket-clnifarsec-test.csv', '../../data/FARSEC/camel-train.csv', '../../data/FARSEC/chromium-clnifarsecsq-train.csv', '../../data/FARSEC/camel-farsectwo-test.csv', '../../data/FARSEC/ambari-clnifarsectwo-test.csv', '../../data/FARSEC/derby-farsecsq-test.csv', '../../data/FARSEC/camel-farsec-train.csv', '../../data/FARSEC/ambari-farsectwo-test.csv', '../../data/FARSEC/derby-farsecsq-train.csv', '../../data/FARSEC/wicket-clnifarsectwo-train.csv', '../../data/FARSEC/derby-clni-test.csv', '../../data/FARSEC/wicket-clni-test.csv', '../../data/FARSEC/ambari-clnifarsectwo-train.csv', '../../data/FARSEC/camel-clnifarsectwo-test.csv', '../../data/FARSEC/wicket-farsecsq-test.csv', '../../data/FARSEC/camel-farsectwo-train.csv', '../../data/FARSEC/wicket-clnifarsecsq-train.csv', '../../data/FARSEC/derby-farsec-test.csv', '../../data/FARSEC/derby-clnifarsecsq-train.csv', '../../data/FARSEC/camel-test.csv', '../../data/FARSEC/chromium-farsectwo-test.csv', '../../data/FARSEC/ambari-farsec-test.csv', '../../data/FARSEC/chromium-farsec-test.csv', '../../data/FARSEC/camel-farsecsq-train.csv', '../../data/FARSEC/derby-farsec-train.csv', '../../data/FARSEC/chromium-clnifarsectwo-test.csv', '../../data/FARSEC/wicket-farsec-test.csv', '../../data/FARSEC/derby-train.csv', '../../data/FARSEC/ambari-farsecsq-test.csv', '../../data/FARSEC/chromium-clnifarsec-train.csv', '../../data/FARSEC/derby-clni-train.csv', '../../data/FARSEC/ambari-farsec-train.csv', '../../data/FARSEC/chromium-test.csv', '../../data/FARSEC/camel-clnifarsec-test.csv', '../../data/FARSEC/ambari-clnifarsec-train.csv', '../../data/FARSEC/ambari-train.csv', '../../data/FARSEC/wicket-farsecsq-train.csv', '../../data/FARSEC/chromium-clnifarsecsq-test.csv', '../../data/FARSEC/camel-farsecsq-test.csv', '../../data/FARSEC/ambari-test.csv', '../../data/FARSEC/camel-clnifarsecsq-test.csv', '../../data/FARSEC/camel-clnifarsecsq-train.csv', '../../data/FARSEC/wicket-clnifarsectwo-test.csv', '../../data/FARSEC/derby-clnifarsectwo-test.csv', '../../data/FARSEC/ambari-farsectwo-train.csv', '../../data/FARSEC/wicket-clnifarsec-train.csv', '../../data/FARSEC/wicket-clnifarsecsq-test.csv', '../../data/FARSEC/chromium-clni-test.csv', '../../data/FARSEC/chromium-farsectwo-train.csv', '../../data/FARSEC/chromium-clni-train.csv', '../../data/FARSEC/chromium-clnifarsectwo-train.csv', '../../data/FARSEC/camel-clni-test.csv', '../../data/FARSEC/derby-farsectwo-train.csv', '../../data/FARSEC/wicket-clni-train.csv', '../../data/FARSEC/derby-clnifarsec-train.csv', '../../data/FARSEC/derby-test.csv', '../../data/FARSEC/wicket-farsec-train.csv', '../../data/FARSEC/ambari-clnifarsecsq-train.csv', '../../data/FARSEC/wicket-farsectwo-train.csv', '../../data/FARSEC/derby-farsectwo-test.csv', '../../data/FARSEC/ambari-farsecsq-train.csv', '../../data/FARSEC/wicket-test.csv', '../../data/FARSEC/camel-clni-train.csv']
+[1.201261032683027, 0.9180430561830155, 1.1454491340488209, 1.2023646705934856, 3.5167136543159305, 2.0377291262122057, 3.3310678447302227, 3.5991373229788732, 1.3164879973011065, 1.0758893755832672, 1.1162586194586237, 1.3164879973011085, 0.6143995219990035, 2.609204185586763, 1.291086685648833, 0.6143995219990035, 1.5409346603756784, 1.1196554688692544, 1.047705325428965, 1.047705325428965, 1.5183468777804139, 1.5229144180312655, 1.5183468777804139, 1.5183468777804139, 1.3142899406888686, 0.6722749256642808, 1.4929455661281406, 1.3142899406888726, 3.276237440617545, 0.0, 2.8842049889794437, 3.078600112105073, 1.1857116052043883, 0.9130060233588557, 0.9532533253070097, 1.0955620849705685, 1.0640587160015318, 0.4140892944688461, 0.5018590974596158, 0.9971528832056267]
